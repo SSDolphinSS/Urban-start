@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df42672b-4268-4787-9334-4ba8518f2f2c" name="Changes" comment="1234">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2_2.py" afterDir="false" />
+    <list default="true" id="df42672b-4268-4787-9334-4ba8518f2f2c" name="Changes" comment="Dom. Zadanie">
+      <change afterPath="$PROJECT_DIR$/module_2_4uchitel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,30 +24,69 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SSDolphinSS&quot;
+  }
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="a0d579f2-3c5a-445e-892e-9a92f5a0a060" />
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SSDolphinSS/Urban-start.git&quot;,
+    &quot;accountId&quot;: &quot;a0d579f2-3c5a-445e-892e-9a92f5a0a060&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2h66CUYy3G66TaZ9osyrt5sM1mY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Debug",
-    "Python.module_2_2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/Desktop/Urban/pythonProject1",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.02_fractal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_arbitrary_params.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BONUS.executor&quot;: &quot;Run&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fake_math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module1hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module2hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module3hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4uchitel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.true_math.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Urban/pythonProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -91,10 +127,139 @@
       <option name="presentableId" value="Default" />
       <updated>1716902053410</updated>
     </task>
+    <task id="LOCAL-00001" summary="1234">
+      <option name="closed" value="true" />
+      <created>1716968661353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716968661353</updated>
+    </task>
+    <task id="LOCAL-00002" summary="proverka zagruzki v github">
+      <option name="closed" value="true" />
+      <created>1716968918483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716968918483</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bez oshibok">
+      <option name="closed" value="true" />
+      <created>1716970430048</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716970430048</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dom. Zadanie">
+      <option name="closed" value="true" />
+      <created>1717068401680</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717068401681</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Dom. Zadanie ispravil">
+      <option name="closed" value="true" />
+      <created>1717069951003</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717069951003</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Dom. Zadanie">
+      <option name="closed" value="true" />
+      <created>1717585456350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717585456350</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Dom. Zadanie">
+      <option name="closed" value="true" />
+      <created>1717701302541</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717701302542</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Dom. Zadanie">
+      <option name="closed" value="true" />
+      <created>1717793207297</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717793207297</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Dom. Zadanie">
+      <option name="closed" value="true" />
+      <created>1717923689091</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717923689091</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Dom. Zadanie">
+      <option name="closed" value="true" />
+      <created>1718020910864</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718020910864</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Dom. Zadanie">
+      <option name="closed" value="true" />
+      <created>1718048007578</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718048007579</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Dom. Zadanie">
+      <option name="closed" value="true" />
+      <created>1718304866066</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718304866066</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Dom. Zadanie">
+      <option name="closed" value="true" />
+      <created>1718565932991</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718565933016</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Dom. Zadanie">
+      <option name="closed" value="true" />
+      <created>1718566418832</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718566418832</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1234" />
-    <option name="LAST_COMMIT_MESSAGE" value="1234" />
+    <MESSAGE value="proverka zagruzki v github" />
+    <MESSAGE value="Bez oshibok" />
+    <MESSAGE value="Dom. Zadanie ispravil" />
+    <MESSAGE value="Dom. Zadanie test2" />
+    <MESSAGE value="Dom. Zadanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dom. Zadanie" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../pythonProject/BONUS.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
